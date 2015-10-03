@@ -1,0 +1,35 @@
+
+buttonSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button.down
+  rotate: false
+  xy: 1, 23
+  size: 50, 20
+  split: 0, 0, 0, 0
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+buttonSkin_d
+  rotate: false
+  xy: 1, 23
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+button.up
+  rotate: false
+  xy: 1, 1
+  size: 50, 20
+  split: 0, 0, 0, 0
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+buttonSkin_u
+  rotate: false
+  xy: 1, 1
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
